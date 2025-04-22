@@ -10,9 +10,9 @@ This EMI Calculator (Equated Monthly Installment Calculator) helps you figure ou
 
 The **EMICalculator** is a simple Java console application that calculates the **Equated Monthly Installment (EMI)** for a loan based on:
 
-- **Principal Loan Amount**
-- **Annual Interest Rate**
-- **Loan Tenure in Years**
+- Principal Loan Amount
+- Annual Interest Rate
+- Loan Tenure in Years
 
 This tool is useful for users looking to estimate their monthly loan repayment amount, whether it's for a home loan, car loan, or personal loan.
 
